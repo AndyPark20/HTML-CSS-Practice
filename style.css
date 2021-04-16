@@ -6,3 +6,11 @@
 .changeBackground{
   background-color:yellow;
 }
+
+.highlightClick{
+  color:red;
+}
+
+span:hover{
+  cursor: pointer;
+}
