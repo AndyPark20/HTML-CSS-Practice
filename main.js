@@ -1,6 +1,11 @@
 
 let $test = document.querySelector('.submitButton');
+let $header = document.querySelector('.header');
+let status = false;
 
 $test.addEventListener('click', ()=>{
-  console.log('hello')
+  status = true;
+  if(status){
+
+  }
 })
