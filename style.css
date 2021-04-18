@@ -9,8 +9,18 @@
 
 .highlightClick{
   color:red;
+  transition:
 }
 
 span:hover{
   cursor: pointer;
+}
+
+.imageSize{
+  width:25%;
+}
+
+.rowDisplay{
+  display:flex;
+
 }
