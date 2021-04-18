@@ -1,0 +1,26 @@
+.buttonColor{
+  background-color:rgba(1,1,1,1);
+  color:red;
+}
+
+.changeBackground{
+  background-color:yellow;
+}
+
+.highlightClick{
+  color:red;
+  transition:
+}
+
+span:hover{
+  cursor: pointer;
+}
+
+.imageSize{
+  width:25%;
+}
+
+.rowDisplay{
+  display:flex;
+
+}
